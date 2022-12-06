@@ -20,7 +20,7 @@
     "history": "4.9.0",
     "lodash.get": "4.4.2",
     "lodash.set": "4.3.2",
-    "qs": "6.7.0",
+    "qs": "6.7.3",
     "react": "16.6.3",
     "react-compound-slider": "2.2.0",
     "react-dom": "16.6.3",
